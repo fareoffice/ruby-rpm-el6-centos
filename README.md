@@ -10,7 +10,7 @@ Or even better: put the .rpm in your repository and yum install. :)
 
 ## Build the rpm package
 
-If package needs to be rebuilt for a new ruby version, create a new .spec file based on latest existing ruby2.x.x.spec and update it acordingly. 
+If package needs to be rebuilt for a new ruby version, create a new .spec file based on latest existing ruby2.x.x.spec and update it accordingly. 
 
 On a Centos 6 machine (or virtual machine):
 
