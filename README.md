@@ -14,9 +14,9 @@ If package needs to be rebuilt for a new ruby version, create a new .spec file b
 
 On a Centos 6 machine (or virtual machine):
 
-    # Install rpm-build
+    $ # Install rpm-build
     $ yum install rpm-build redhat-rpm-config rpmdevtools
-    # Sets up a build folder structure in you home folder
+    $ # Sets up a build folder structure in you home folder
     $ rpmdev-setuptree
 
 Download ruby version source from:
